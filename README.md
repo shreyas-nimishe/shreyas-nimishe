@@ -5,9 +5,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Shreyas</h1>
 <h3 align="center">I'm a software engineer at Google.</h3>
 
-<h3 align="center"> <a href="default.asp">
-  <img src="https://i.gifer.com/fetch/w300-preview/f8/f8cf91a73b773ba1c6fc5df2f3bc4fcc.gif" alt="giflogo" style="width:42px;height:42px;">
-</a>
+<h3 align="center"> 
+  <img src="http://pngimg.com/uploads/google/google_PNG19635.png" alt="giflogo" style="width:42px;height:42px;">
 </h3>
 
 ## 🙋‍♂️ About Me
