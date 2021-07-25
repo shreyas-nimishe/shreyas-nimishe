@@ -6,7 +6,7 @@
 <h3 align="center">I'm a software engineer at Google.</h3>
 
 <h3 align="center"> 
-  <img src="http://pngimg.com/uploads/google/google_PNG19635.png" alt="giflogo" style="width:42px;height:42px;">
+  <img src="http://pngimg.com/uploads/google/google_PNG19635.png" alt="giflogo" width="45" height="45">
 </h3>
 
 ## 🙋‍♂️ About Me
