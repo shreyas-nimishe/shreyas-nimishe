@@ -14,6 +14,7 @@
 
 
 <p align="left"> 
+        <a href="https://golang.org/" target="_blank"> <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="45" height="45"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
      &nbsp;
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -28,7 +29,6 @@
      &nbsp;
       <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
        &nbsp;
-    <a href="https://golang.org/" target="_blank"> <img src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="40" height="40"/> </a>
 </p>
 
 
