@@ -2,14 +2,15 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreyas</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi ,I'm Shreyas</h1>
 <h3 align="center">I'm a software engineer at Google.</h3> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 📫 How to reach me **shreyas.nimishe@gmail.com**
+- 📫 Reach me at **shreyas.nimishe@gmail.com**
+- 
 
 
 <p align="left"> 
@@ -38,7 +39,7 @@
 
 
   <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nisarg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-nimishe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
