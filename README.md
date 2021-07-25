@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Shreyas</h1>
 <h3 align="center">I'm a software engineer at Google.</h3>
-<h3 align="center"><img src="https://i.gifer.com/74zF.gif" width="40" height="40"/> </h3>
+<h3 align="center"><video poster="https://i.gifer.com/fetch/w300-preview/f8/f8cf91a73b773ba1c6fc5df2f3bc4fcc.gif" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/74zF.mp4" type="video/mp4"></video></h3>
 
 ## 🙋‍♂️ About Me
 
